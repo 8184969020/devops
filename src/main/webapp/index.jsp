@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h1>hi</hi>
-<h2>satya</h2>
+<h1>This is the first web application</h1>
+<h2>Kusu thanks for the aws</h2>
+<h2>from satya</h2>
 </body>
 </html>
